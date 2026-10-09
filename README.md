@@ -1,10 +1,10 @@
 
 
-Geyser is a bridge between Minecraft: Bedrock Edition and Minecraft: Java Edition, closing the gap from those wanting to play true cross-platform.
+VolcanicMC is a bridge between Minecraft: Bedrock Edition and Minecraft: Java Edition, closing the gap from those wanting to play true cross-platform.
 
-Geyser is an [Open Collaboration](https://opencollaboration.dev/) project.
+VolcanicMC is an [Open Collaboration](https://opencollaboration.dev/) project.
 
-## What is Geyser?
+## What is VolcanicMc?
 Geyser is a proxy, bridging the gap between Minecraft: Bedrock Edition and Minecraft: Java Edition servers.
 The ultimate goal of this project is to allow Minecraft: Bedrock Edition users to join Minecraft: Java Edition servers as seamlessly as possible. However, due to the nature of Geyser translating packets over the network of two different games, *do not expect everything to work perfectly!*
 
@@ -15,18 +15,9 @@ Special thanks to the DragonProxy project for being a trailblazer in protocol tr
 | Edition | Supported Versions                                                                                |
 |---------|---------------------------------------------------------------------------------------------------|
 | Bedrock | 26.30, 26.31, 26.32, 26.33, 26.34, 26.40, 26.41, 26.42, 26.43, 26.44, 26.45, 26.50, 26.51, 26.52  |
-| Java    | 26.2 (For older versions, [see this guide](https://geysermc.org/wiki/geyser/supported-versions/)) |
+| Java    | 26.2
 
-## Setting Up
-Take a look [here](https://geysermc.org/wiki/geyser/setup/) for how to set up Geyser.
 
-## Links:
-- Website: https://geysermc.org
-- Docs: https://geysermc.org/wiki/geyser/
-- Download: https://geysermc.org/download
-- Discord: https://discord.gg/geysermc
-- Donate: https://opencollective.com/geysermc
-- Test Server: `test.geysermc.org` port `25565` for Java and `19132` for Bedrock
 
 ## What's Left to be Added/Fixed
 - Near-perfect movement (to the point where anticheat on large servers is unlikely to ban you)
