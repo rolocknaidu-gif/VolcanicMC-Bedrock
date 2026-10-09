@@ -1,3 +1,4 @@
+<img width="1013" height="156" alt="minecraft_title" src="https://github.com/user-attachments/assets/7c3a5782-e017-4a09-92ed-f6a2b02fbbf5" />
 
 
 VolcanicMC is a bridge between Minecraft: Bedrock Edition and Minecraft: Java Edition, closing the gap from those wanting to play true cross-platform.
